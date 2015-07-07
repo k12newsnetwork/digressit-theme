@@ -1,9 +1,9 @@
 /*	
-Theme Name: K12NN Digress.it
+Theme Name: Digress.it
 Theme URI: http://digress.it
 Description: Digress.it allows readers to comment paragraph by paragraph in the margins of a text. You can use it to comment, gloss, workshop, debate and more!
 Author: Eddie A Tejeda
-Version: 4.0.11
+Version: 3.0
 Author URI: http://www.visudo.com
 License: GPLv2 (http://creativecommons.org/licenses/GPL/2.0/)
 Tags: buddypress, comments, annotation, discussion, commenting, paragraph, education, transparency
@@ -13,9 +13,6 @@ The developers of JQuery @ www.jquery.com
 Joss Winn and Tony Hirst @ writetoreply.com
 Jesse Wilbur, Ben Vershbow, Dan Visel and Bob Stein @ futureofthebook.org
 Cynthia Farina, Mary Newhart, and Austin Austice at Cornell University
-
-GitHub Theme URI: k12newsnetwork/digressit-theme
-GitHub Theme URI: https://github.com/k12newsnetwork/digressit-theme
 */
 
 
@@ -33,27 +30,6 @@ body{
 	min-height:80px;
 	position:relative;
 	text-align:left;
-}
-
-#header a.left-header,
-#header a.right-header {
-	display: block;
-	float: left;
-	width: 50%;
-	height: 100px;
-}
-
-#header a.left-header:hover,
-#header a.right-header:hover {
-	background: none !important;
-}
-
-#header a.left-header {
-	width: 40%;
-}
-
-#header a.right-header {
-	width: 60%;
 }
 
 #live-content-search, #live-comment-search{
